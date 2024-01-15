@@ -8,3 +8,8 @@ This is a college assignment I completed for the University of Delaware in Fall 
 4. Execute the following command: `pip install cisc108`.
 5. Run the program by executing `py project_starter.py` (or `[Python install path] project_starter.py` if your PATH is not set).
 6. (Optional) Run the test program by executing `py project_starter_tests.py` (or `[Python install path] project_starter_tests.py` if your PATH is not set).
+
+# How to Play
+1. Press `a` to move left. Press `d` to move right.
+2. Press `SPACE` to jump. You can move left or right while mid-air.
+3. Have fun.
